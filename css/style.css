@@ -1,0 +1,7 @@
+:root {
+    --primary: green;
+    --white: #ffffff;
+  }
+.btn-primary {
+    color: var(--primary);
+}
